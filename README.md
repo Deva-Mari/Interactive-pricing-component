@@ -33,8 +33,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Repository URL: (https://github.com/Deva-Mari/Interactive-pricing-component)
+- Solution URL: (https://www.frontendmentor.io/solutions/interactive-pricing-component-built-with-html-sass-and-vanilla-js-SrW9s4RYjp)
+- Live Site URL: (https://leafy-licorice-9b7dad.netlify.app/)
 
 ## My process
 
