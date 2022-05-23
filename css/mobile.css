@@ -1,0 +1,83 @@
+header {
+  padding-top: 5.5rem;
+  padding-bottom: 4rem;
+}
+
+header #background-img {
+  top: 7%;
+}
+
+header h1 {
+  font-size: 1.3rem;
+  margin-bottom: .8rem;
+}
+
+header div {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  line-height: 1.5rem;
+}
+
+article {
+  width: 90%;
+}
+
+article #main-info {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+article #main-info #slider-bar #slider-button {
+  width: 3rem;
+  height: 3rem;
+}
+
+article #billing {
+  padding: 0 .5rem;
+}
+
+article #billing p {
+  margin: 0 .2rem;
+  font-size: .7rem;
+}
+
+article #billing .discount {
+  margin: 0rem;
+}
+
+article #billing #mobile {
+  display: inline-block !important;
+}
+
+article #billing #desktop {
+  display: none;
+}
+
+article #bottom-info {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+article #bottom-info ul {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+article #bottom-info button {
+  margin-top: 2rem;
+}
+/*# sourceMappingURL=mobile.css.map */

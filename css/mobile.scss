@@ -1,0 +1,55 @@
+header{
+    padding-top: 5.5rem;
+    padding-bottom: 4rem;
+    #background-img{
+        top: 7%;
+    }
+    h1{
+        font-size: 1.3rem;
+        margin-bottom: .8rem;
+    }
+    div{
+        flex-direction: column;
+        line-height: 1.5rem;
+    }
+}
+
+article{
+    width: 90%;
+    #main-info{
+        flex-direction: column;
+        #slider-bar{
+            #slider-button{
+                width: 3rem;
+                height: 3rem;
+            }
+        }
+    }
+    #billing{
+        padding: 0 .5rem;
+        p{
+            margin: 0 .2rem;
+            font-size: .7rem;
+        }
+        .discount{
+            margin: 0rem;
+        }
+        #mobile{
+            display: inline-block !important;
+        }
+        #desktop{
+            display: none;
+        }
+    }
+    #bottom-info{
+        flex-direction: column;
+        ul{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        button{
+            margin-top: 2rem;
+        }
+    }
+}
